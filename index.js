@@ -9,7 +9,7 @@ function printTopThreeHeadlines = ('...headlines') => {
     return headlines[0] + headlines[1] + headlines[3]
 };
 
-result = printTopThreeHeadlines(result1, 2, 3, 4, 5,);
+result = printTopThreeHeadlines(result, 1, 2, 3, 4, 5,);
 
 
 
