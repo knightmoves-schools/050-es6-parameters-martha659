@@ -5,7 +5,7 @@ function calcuateTotal(subtotal, shipping = 1 )  {
 
 calcuateTotal result = shipping (2.50);
 
-function printTopThreeHeadlines = (...headlines) => {
+function printTopThreeHeadlines = ('...headlines') => {
     return headlines[0] + headlines[1] + headlines[3]
 };
 
